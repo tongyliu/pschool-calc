@@ -1,0 +1,97 @@
+.container
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#top
+{
+    /* center contents */
+    text-align: center;
+    padding: 29px;
+}
+
+#middle
+{
+    /* center contents 
+    text-align: center;*/
+}
+
+#bottom
+{
+    /* shrink bottom's font size */
+    font-size: smaller;
+
+    /* surround with whitespace */
+    margin: 20px;
+
+    /* center contents */
+    text-align: center;
+}
+
+#title
+{
+    color: #000;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.1);
+}
+
+#fat-bottom
+{
+    margin-bottom: 18px;
+}
+
+a.title_link:hover
+{
+    text-decoration: none;
+}
+
+.center-pills
+{
+    display: inline-block;
+}
+
+.beauteous 
+{
+    max-width: 400px;
+    padding: 19px 29px 19px;
+    margin: 0 auto 20px;
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+    -webkit-border-radius: 0px;
+       -moz-border-radius: 0px;
+            border-radius: 0px;
+    -webkit-box-shadow: 0 5px 10px rgba(0,5,0,.4);
+       -moz-box-shadow: 0 5px 10px rgba(0,5,0,.4);
+            box-shadow: 0 5px 10px rgba(0,5,0,.4);
+}
+
+.btn-toolbar
+{
+    float: right;
+}
+
+.btn-block
+{
+    margin-top: 10px;
+}
+
+/*.instructions
+{
+    font-size: small;
+}*/
+
+textarea
+{
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+button
+{
+    float: right;
+}
+
+
